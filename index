@@ -23,7 +23,7 @@ align:center;color:blue;'>Satelites de comucicaciones</figcaption></td>
 satelitesderecursosterrestres.jpeg'  widht="200" height="200"></a><figcation style ='text-
 align:center;color:blue;'>Satelites de recursos terrestres</figcaption></td>
                   <td><a href= 'html/satelitesmilitares.html'><img src= 'figuras/
-satelitesmilitares.jpeg'  width="200" height="200"></a><figcaption style = 'text-align:center;color:blue;'>satelites militares
+satelitesmilitares.png'  width="200" height="200"></a><figcaption style = 'text-align:center;color:blue;'>satelites militares
 </figcaption></td>
   </tr>
 
@@ -36,7 +36,7 @@ satelitesastronomicos.jpeg'  width="200" height="200"></a><figcaption style = 't
 <td><a href= 'html/satelitesdeposicionamientoglobal.html'><img src= 'figuras/
 satelitesdeposicionamientoglobal.jpeg'  width="200" height="200"></a><figcaption style = 'text-align:center;color:blue;'>satelites deposicionamiento global
 </figcaption></td>
-<td><a href= 'html/osodeanteojos.html'><img src= 'figuras/
+
 
 
 </tr>
