@@ -17,10 +17,10 @@
 
 
                     <td><a href ='html/satelitesdecomunicaciones.html'><img src='figuras/
-satelitesdecomunicaciones.jpeg' width="200" height="200" ></a><figcaption style ='text-
+satelitesdecomunicaciones.jpg' width="200" height="200" ></a><figcaption style ='text-
 align:center;color:blue;'>Satelites de comucicaciones</figcaption></td>
                     <td><a href= 'html/satelitesderecursosterrestres.html'><img src='figuras/
-satelitesderecursosterrestres.jpeg'  widht="200" height="200"></a><figcation style ='text-
+satelitesderecursosterrestres.jpg'  widht="200" height="200"></a><figcation style ='text-
 align:center;color:blue;'>Satelites de recursos terrestres</figcaption></td>
                   <td><a href= 'html/satelitesmilitares.html'><img src= 'figuras/
 satelitesmilitares.png'  width="200" height="200"></a><figcaption style = 'text-align:center;color:blue;'>satelites militares
@@ -30,11 +30,11 @@ satelitesmilitares.png'  width="200" height="200"></a><figcaption style = 'text-
 <tr>
 
  <td><a href= 'html/satelitesastronomicos.html'><img src= 'figuras/
-satelitesastronomicos.jpeg'  width="200" height="200"></a><figcaption style = 'text-align:center;color:blue;'>satelites astronomicos
+satelitesastronomicos.jpg'  width="200" height="200"></a><figcaption style = 'text-align:center;color:blue;'>satelites astronomicos
 </figcaption></td>
 
 <td><a href= 'html/satelitesdeposicionamientoglobal.html'><img src= 'figuras/
-satelitesdeposicionamientoglobal.jpeg'  width="200" height="200"></a><figcaption style = 'text-align:center;color:blue;'>satelites deposicionamiento global
+satelitesdeposicionamientoglobal.jpg'  width="200" height="200"></a><figcaption style = 'text-align:center;color:blue;'>satelites deposicionamiento global
 </figcaption></td>
 
 
